@@ -1,0 +1,6 @@
+-sname aoc_display
+
+-setcookie aoc_display_cookie
+
++K true
++A30
