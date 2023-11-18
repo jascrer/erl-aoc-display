@@ -2,6 +2,7 @@
 The idea of this project is to cement my knowledge about creating web applications with Erlang, as well as, integrating the solutions of answers of the Advent of Code.
 
 First, I want to use my past solutions in to the app as well as to share the Advent of Code tree into my page. The solutions should be executable in the applications with my inputs. Last year's (2022) solutions are on Erlang.
+Advent of code solutions as a rebar3 library can be found here: https://github.com/jascrer/erlaoc.git
 
 Second, I want this app to consume my answers to this year's AOC (2023) via restful application. This year (2023), I will use Elixir as my language.
 

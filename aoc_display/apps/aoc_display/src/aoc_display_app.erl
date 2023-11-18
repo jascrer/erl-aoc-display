@@ -9,6 +9,7 @@
 
 -export([start/2, stop/1]).
 
+
 start(_StartType, _StartArgs) ->
     Dispatch = cowboy_router:compile([{'_',[
         {"/", cowboy_static, {priv_file, aoc_display, "index.html"}},
